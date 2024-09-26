@@ -29,6 +29,11 @@ email: jnjsoft.ko@gmail.com
 - "/Users/youchan/Local Sites/ilmac/app/public/wp-content/themes" 하위 폴더 삭제
   - "/Users/youchan/Local Sites/ilmac/app/public/wp-content/themes/twentytwentyfour" 제외
 
+## `/_test`
+
+- `phpinfo.php`
+
+
 
 ## github
 
