@@ -27,7 +27,7 @@ if ($result->num_rows > 0) {
     while($row = $result->fetch_assoc()) {
         print_r($row) . "<br>"; // $row;
         echo "기관명: " . $row["기관명"]. "<br>";
-        // echo "기관명: " . $row["기관명"]. " - 상세페이지주소: " . $row["상세페이지주소]"]. "<br>";
+        // echo "기관명: " . $row["기관명"]. " - 상세페이지주소: " . $row["상세페이지주소"]. "<br>";
     }
 } else {
     echo "0 results";
